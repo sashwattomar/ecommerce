@@ -28,7 +28,7 @@ const NewArrival = () => {
             .map(({ value }: any) => value);
     }
     useEffect(() => {
-        setData(shuffleArray(Data).slice(0, 15))
+        setData(shuffleArray(Data))
     }, [])
     return (
         <div className='container pt-32'>

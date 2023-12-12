@@ -12,7 +12,7 @@ export default [
     img: "/product__3.png",
     name: "Hydrating Facial Mist",
     price: 15.0,
-    category: ["skincare", "makeup"],
+    category: ["skin care", "makeup"],
     sale: false,
   },
   {
@@ -36,7 +36,7 @@ export default [
     img: "/product__5.png",
     name: "Cleansing Oil Makeup Remover",
     price: 14.99,
-    category: ["skincare"],
+    category: ["skin care"],
     sale: true,
   },
   {
@@ -52,7 +52,7 @@ export default [
     img: "/product__3.png",
     name: "Curl Enhancing Shampoo",
     price: 30.5,
-    category: ["haircare", "skincare"],
+    category: ["haircare", "skin care"],
     sale: false,
   },
   {
@@ -60,7 +60,7 @@ export default [
     img: "/product__1.png",
     name: "Long-Lasting Nail Polish",
     price: 9.5,
-    category: ["nailcare", "lipsticks"],
+    category: ["nail & wax"],
     sale: false,
   },
   {
@@ -68,7 +68,7 @@ export default [
     img: "/product__2.png",
     name: "Anti-Aging Night Cream",
     price: 45.99,
-    category: ["skincare", "lipsticks"],
+    category: ["skin care"],
     sale: true,
   },
   {
@@ -100,7 +100,7 @@ export default [
     img: "/product__3.png",
     name: "Natural Glow Foundation",
     price: 55.5,
-    category: ["makeup", "skincare"],
+    category: ["makeup", "skin care"],
     sale: false,
   },
   {
@@ -108,7 +108,7 @@ export default [
     img: "/product__6.png",
     name: "Moisture Lock Lip Balm",
     price: 12.0,
-    category: ["lipcare", "skincare"],
+    category: ["lipcare", "skin care"],
     sale: false,
   },
   {
@@ -124,7 +124,7 @@ export default [
     img: "/product__2.png",
     name: "Pore-Refining Toner",
     price: 17.25,
-    category: ["skincare", "lipsticks"],
+    category: ["skin care", "lipsticks"],
     sale: true,
   },
    {
@@ -164,7 +164,7 @@ export default [
     img: "/product__3.png",
     name: "Soothing Aloe Vera Gel",
     price: 12.5,
-    category: ["skincare"],
+    category: ["skin care"],
     sale: false,
   },
   {
@@ -196,7 +196,7 @@ export default [
     img: "/product__1.png",
     name: "Refreshing Facial Cleanser",
     price: 15.0,
-    category: ["skincare"],
+    category: ["skin care"],
     sale: true,
   },
   {
@@ -228,7 +228,7 @@ export default [
     img: "/product__6.png",
     name: "Gentle Exfoliating Scrub",
     price: 14.5,
-    category: ["skincare"],
+    category: ["skin care"],
     sale: false,
   },
   {
@@ -236,7 +236,7 @@ export default [
     img: "/product__5.png",
     name: "Satin Finish Nail Polish",
     price: 11.99,
-    category: ["nailcare"],
+    category: ["nail & wax"],
     sale: true,
   },
   {
